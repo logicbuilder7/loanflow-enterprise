@@ -14,7 +14,7 @@ LoanFlow Enterprise is an enterprise-style full-stack application that demonstra
 -   **Backend API:** https://loanflow-api-gdf7.onrender.com
 -   **Swagger UI:**
     https://loanflow-api-gdf7.onrender.com/swagger-ui/index.html
--   **GitHub:** https://github.com/lalithaaluri/loanflow-enterprise
+-   **GitHub:** https://github.com/logicbuilder7/loanflow-enterprise
 
 > **Note:** The Render backend may take 30--60 seconds to wake up if it
 > has been idle.
@@ -385,7 +385,7 @@ PostgreSQL
 
 # 👨‍💻 Author
 
-**Lalitha Kumari**
+**Digvej**
 
 Java Full Stack Developer
 
